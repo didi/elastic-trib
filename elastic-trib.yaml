@@ -1,0 +1,7 @@
+# cluster config
+clusters:
+    local: http://127.0.0.1:9200
+
+verbose: true
+timeout: 30
+authlog: elastic-operation.log
